@@ -1,0 +1,31 @@
+
+.izq{
+	background-color: #848484;
+
+}
+.cv{
+	margin-top: 10px;
+	margin-left: 20px;
+	margin-right: 20px; 
+	border: 2px solid black;
+}
+.heino{ 
+	margin: auto;
+	display: block;
+	margin-top: 5%;
+}
+.nombre{
+
+}
+
+.titulo{
+	margin-top: 5px;
+	background-color: #585858 ;
+	border: #a09ea3 outset 3px; 
+}
+.der{
+	background-color: #BDBDBD
+}
+.hd{
+	background-color: #898989;
+}
